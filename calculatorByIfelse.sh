@@ -22,5 +22,5 @@ elif [[ $op == '*' ]];
 then	
        echo "The multiplication will be: $((num1 * num2)) "
 else
-      echo "enter the write operation" 
+      echo "enter the correct operation" 
 fi      
